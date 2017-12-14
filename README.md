@@ -1,6 +1,6 @@
 ## Usage
 
-There are two dependancies: `connect` & `serve-static` to install them run the below:
+There are two dependancies: `connect` & `serve-static` to install them run the following on command line:
 
 ```
 npm install connect serve-static
@@ -18,7 +18,7 @@ To get started with the project, start with this:
 1. [Sign up](https://github.com/join) for a GitHub Account (if you don't already have one)
 2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo
 3. [Clone](https://help.github.com/articles/cloning-a-repository/) your fork
-4. Require the module (see `Usage` above) and get started!
+4. Install dependancies (see `Usage` above) and get started!
 5. Run `$ node server.js`
 6. Available on http://localhost:8080/
 
